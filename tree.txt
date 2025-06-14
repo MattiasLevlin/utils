@@ -1,6 +1,9 @@
                              .
-     12 B,       0 lines     ├── README.md
+    173 B,       9 lines     ├── README.md
+ 10.9 KiB,     264 lines     ├── cleanup.py
+  5.6 KiB,     165 lines     ├── print_tree.sh
+    985 B,      38 lines     ├── run.sh
   4.2 KiB,     137 lines     ├── tree.sh
-    127 B,       3 lines     └── tree.txt
+    276 B,       6 lines     └── tree.txt
 
-0 directories, 3 files
+0 directories, 6 files
