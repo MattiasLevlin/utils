@@ -1,4 +1,4 @@
-# code-comments-remove
+# curl-to-remove-comments
 
 * This repository contains a script that removes comments from a codebase
 * Currently, it supports comment removal in HTML, CSS, JS
@@ -33,10 +33,10 @@ This script is NOT recommended for:
 
 ```bash
 # python
-curl -sSL https://raw.githubusercontent.com/MattiasLevlin/utils/master/run.py | python
+curl -sSL https://raw.githubusercontent.com/MattiasLevlin/curl-to-remove-comments/master/run.py | python
 
 # python3
-curl -sSL https://raw.githubusercontent.com/MattiasLevlin/utils/master/run.py | python3
+curl -sSL https://raw.githubusercontent.com/MattiasLevlin/curl-to-remove-comments/master/run.py | python3
 ```
 
 ## Other recommended (local) commands
