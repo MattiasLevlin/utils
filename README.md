@@ -1,7 +1,5 @@
 # code-comments-remove
 
-## Description
-
 * This repository contains a script that removes comments from a codebase
 * Currently, it supports comment removal in HTML, CSS, JS
 
@@ -30,6 +28,8 @@ This script is NOT recommended for:
 * Traditional coding
 * Codebases that contain any kind of critical functionality 
 * Codebases that are 100% under human supervision
+
+## How
 
 ```bash
 # python
